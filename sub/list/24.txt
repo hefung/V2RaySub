@@ -1,0 +1,1 @@
+  - {name: 🇺🇸 美国 CloudFlare节点, server: eu3.998998.best, port: 443, type: vmess, uuid: 5504eaa8-1395-402f-8e0e-75ecd762e627, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: server40.9966338.xyz, network: ws, ws-opts: {path: /aiaiai, headers: {Host: server40.9966338.xyz}}}
