@@ -1,1 +1,0 @@
-  - {name: 🇨🇦 加拿大 安大略省多伦多Choops数据中心, server: ca.tronsg.com, port: 443, type: trojan, password: Trojan%4082164024, sni: ca.tronsg.com, skip-cert-verify: false}
