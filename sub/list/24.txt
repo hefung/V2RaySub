@@ -1,2 +1,0 @@
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.16.72.41, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.21.37.56, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false}
