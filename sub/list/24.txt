@@ -1,4 +1,2 @@
-  - {name: 🇺🇸 美国 CloudFlare节点, server: cf.0sm.com, port: 443, type: vmess, uuid: 0cf6d970-3f1d-4aae-a989-92a8f76ae3db, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: vmess.lbw666.dpdns.org, network: ws, ws-opts: {path: "/ws?ed=2048", headers: {Host: vmess.lbw666.dpdns.org}}}
-  - {name: 🇺🇸 美国 加利福尼亚州洛杉矶IT7网络, server: 95.169.3.45, port: 46005, type: ss, cipher: chacha20-ietf-poly1305, password: !<str> 123456}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: www.calmlunch.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false}
-  - {name: 🇩🇪 德国 巴伐利亚州纽伦堡Tor网络出口, server: 185.220.100.168, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.19.150.163, port: 443, type: trojan, password: !<str> 123456, sni: now-pages-sub-em4.pages.dev, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: yg1.ygkkk.dpdns.org, port: 443, type: vmess, uuid: b2ba4a73-3123-479e-aa96-5973a9ecd0c0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: jmp1.907737.xyz, network: ws, ws-opts: {path: /b2ba4a73-3123-479e-aa96-5973a9ecd0c0-vm, headers: {Host: jmp1.907737.xyz}}}
