@@ -1,2 +1,1 @@
-  - {name: 🇺🇸 美国 CloudFlare节点, server: nimm.mpd.cc.cd, port: 2053, type: trojan, password: e309e031-991e-4656-9934-44d10deb8fd8, sni: nimm.mpd.cc.cd, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 108.162.194.134, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false}
+  - {name: 乌克兰 V2CROSS.COM, server: 82.117.245.125, port: 2053, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false}
