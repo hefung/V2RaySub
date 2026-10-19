@@ -1,0 +1,1 @@
+  - {name: 🇦🇹 奥地利 V2CROSS.COM, server: 212.183.88.136, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false}
