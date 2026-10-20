@@ -1,5 +1,2 @@
-  - {name: 🇺🇸 美国 CloudFlare节点, server: russia.com, port: 443, type: trojan, password: bpb-trojan, sni: 6982410.xyz, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 162.159.152.31, port: 443, type: trojan, password: !<str> 123456, sni: now-pages-sub-em4.pages.dev, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 108.162.194.134, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 4, server: 104.19.150.163, port: 443, type: trojan, password: !<str> 123456, sni: now-pages-sub-em4.pages.dev, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 5, server: 172.67.161.144, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}}
+  - {name: 🇺🇸 美国 V2CROSS.COM, server: 209.38.99.120, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false}
+  - {name: 🇷🇺 俄罗斯 V2CROSS.COM, server: 95.85.32.57, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false}
