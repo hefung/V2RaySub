@@ -1,2 +1,2 @@
-  - {name: 🇺🇸 美国 V2CROSS.COM, server: 209.38.99.120, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false}
-  - {name: 🇷🇺 俄罗斯 V2CROSS.COM, server: 95.85.32.57, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 108.162.194.134, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false}
+  - {name: 🇬🇧 英国 伦敦DigitalOcean数据中心, server: 138.68.131.253, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false}
